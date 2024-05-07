@@ -7,4 +7,9 @@ ordered on amazon @ 124.89 CAD (pre-tax) on 04/19/24
 ordered on aliexpress @ 9.72 CAD (no-tax) on 04/26/24
 
 ### radxa penta sata hat
-ordered on 
+ordered on arace.tech @ 80.00 cad (no-tax) on 04/23/24
+
+### 4x 2tb sata storage (undecided)
+yet to order
+
+all recieved on: 
