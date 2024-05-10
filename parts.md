@@ -12,7 +12,10 @@ link on amazon: https://amzn.to/3UzcjVu
 ordered on arace.tech @ 80.00 cad (no-tax) on 04/23/24  
 link on amazon: https://amzn.to/3yc51iO
 
-### 4x 2tb sata storage (undecided)
+### 2x 2tb sata storage (undecided)
+yet to order
+
+### 2x 2tb hdd (undecided)
 yet to order
 
 all recieved on: 
