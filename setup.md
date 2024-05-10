@@ -1,4 +1,7 @@
 ## setup
-this is a 4tb nas but I am hoping to run it using a raid 10 setup, therefore, I need a total of 8tb. hence I will use 4 tb worth of sata ssd (specific model:
- tbd) and have it backed up on a 4tb hdd. decided on this setup to maximize speed of initial transfers (into sata ssds) and still ensure backup through the hdds
- despite potential slow speeds 
+
+NAS total storage will be 4TB run in a raid 10 (1+0) setup. I will need a total of 8TB as half the storage is mirrored and the usable space is only half the total.
+4TB of SATA SSDs will be used followed by a 4TB HDD. This setup was chosen to maximize speed of data transfers (into sata SSDs) and still ensure backup through the HDDs. The setup is also striped into two drives so that the transfer of data is quicker compared to a regular setup. 
+
+
+
