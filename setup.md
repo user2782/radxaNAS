@@ -1,8 +1,8 @@
 ## setup
 
-NAS total storage will be 4TB run in a raid 10 (1+0) setup. I will need a total of 8TB as half the storage is mirrored and the usable space is only half the total.
+nas total storage will be 4tb run in a raid 10 (1+0) setup. i will need a total of 8tb as half the storage is mirrored and the usable space is only half the total.
 
-4TB of SATA SSDs will be used followed by a 4TB HDD. This setup was chosen to maximize speed of data transfers (into sata SSDs) and still ensure backup through the HDDs. The setup is also striped into two drives so that the transfer of data is quicker compared to a regular setup. 
+4tb of sata ssds will be used followed by a 4tb hdd. this setup was chosen to maximize speed of data transfers (into sata ssds) and still ensure backup through the hdds. the setup will allow the data to be striped into two drives so that the transfer speeds will be much quicker compared to a regular setup. 
 
 
 
